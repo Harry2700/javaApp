@@ -4,9 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>About page</title>
+<title>Insert title here</title>
 </head>
 <body>
+<p>this is test<p>
 <p>this is about page<p>
 </body>
 </html>
